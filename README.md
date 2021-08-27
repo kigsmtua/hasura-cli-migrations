@@ -1,2 +1,1 @@
-Runs hasura migrations from CLI,
-usage
+Runs hasura migrations from CLI
